@@ -1,8 +1,8 @@
 ﻿# Católica de Santa Catarina (Fundação Educacional Regional Jaraguaense (FERJ))
 ## Disciplina de Algoritmos Avançados
 
-Professor: Glauco Scheffel (https://www.linkedin.com/in/glaucoscheffel/)
-Aluna: Kamylla Jawad (https://www.linkedin.com/in/kamylla-jawad27/)
+###Professor: Glauco Scheffel (https://www.linkedin.com/in/glaucoscheffel/)
+###Aluna: Kamylla Jawad (https://www.linkedin.com/in/kamylla-jawad27/)
 
 
 <h3>Atividade 1</h3> 
